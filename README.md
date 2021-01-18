@@ -1,2 +1,2 @@
 # django-project
-this is my django project
+this is my first django project
